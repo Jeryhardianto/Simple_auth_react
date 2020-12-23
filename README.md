@@ -15,3 +15,7 @@
    - Eamil    : admin@gmail.com
    - Password : 12345
 ## Screenshot
+![Login](https://github.com/Jeryhardianto/Simple_auth_react/blob/main/screenshot/login.JPG?raw=true)
+![Login Success](https://github.com/Jeryhardianto/Simple_auth_react/blob/main/screenshot/dashboard.JPG?raw=true)
+![Sign up](https://github.com/Jeryhardianto/Simple_auth_react/blob/main/screenshot/sign up.JPG?raw=true)
+![Sign up Success](https://github.com/Jeryhardianto/Simple_auth_react/blob/main/screenshot/sign up success.JPG?raw=true)
